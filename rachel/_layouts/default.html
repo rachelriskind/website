@@ -7,14 +7,21 @@
 
     {% include header.html %}
 
-    <div class="page-content">
-      <div class="wrapper">
-        {{ content }}
+    <div class="container sections-wrapper">
+      <div class="row">
+        <div class="primary col-md-8 col-sm-12 col-xs-12">
+          {{ content }}
+        </div>
+        <div class="secondary col-md-4 col-sm-12 col-xs-12">
+          {% include about.html %}
+          {% include contact.html %}
+        </div>
       </div>
     </div>
 
     {% include footer.html %}
 
+    {% include ga.html %}
   </body>
 
 </html>
