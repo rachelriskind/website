@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ongoing Research"
+title:  "Ongoing research"
 date:   2015-05-27 12:29:19
 permalink: /ongoing-research
 ---
