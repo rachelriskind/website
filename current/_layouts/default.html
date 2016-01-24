@@ -16,7 +16,7 @@
           <div class="section">
             <div class="section-inner">
               <ul class="nav nav-pills nav-stacked">
-                <li role="presentation" class="{% if page.url == '/index.html' %}active{% endif %}">
+                <li role="presentation" class="{% if page.url == '/' %}active{% endif %}">
                   <a href="{{ '/' | prepend: site.baseurl }}">Info</a>
                 </li>
               {% for post in site.posts %}

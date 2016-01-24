@@ -7,7 +7,9 @@ permalink: /publications
 
 ###Peer-reviewed publications
 
-Sabin, J.A., Riskind, R.G., & Nosek, B.A.  (In press).  Health care providers’ implicit and explicit attitudes towards lesbian women and gay men.  American Journal of Public Health.
+Westgate, E.C., Riskind, R.G., & Nosek, B.A.  (2015).  [Implicit preferences for straight people over lesbian women and gay men weakened from 2006 to 2013](http://collabra.org/articles/10.1525/collabra.18/).  Collabra Open Access Journal, 1, Art. 1.
+
+Sabin, J.A., Riskind, R.G., & Nosek, B.A.  (2015).  [Health care providers’ implicit and explicit attitudes towards lesbian women and gay men](http://ajph.aphapublications.org/doi/abs/10.2105/AJPH.2015.302631).  American Journal of Public Health, 105, 1831-1841.
 
 Lick, D.J., Johnson, K.L., & Riskind, R.G. (2015).  [Haven’t I seen you before? Men are vigilant to gender-atypical faces when their masculinity is threatened.](http://gpi.sagepub.com/content/18/2/131) Group Processes & Intergroup Relations, 18, 131-152.
 
@@ -23,11 +25,13 @@ Nosek, B. A. & Riskind, R.G. (2012). [Policy implications of implicit social cog
 
 Riskind, R.G. & Patterson, C.J. (2010). [Parenting intentions and desires among childless lesbian, gay, and heterosexual individuals.](http://psycnet.apa.org/journals/fam/24/1/78.pdf)  Journal of Family Psychology, 24, 78-81.
 
-Patterson, C.J. & Riskind, R.G. (2010).  [To be a parent: Issues in family formation among gay and lesbian adults.](http://www.informaworld.com/index/925052935.pdf)  Journal of GLBT Family Studies, 6, 199-213.*
+Patterson, C.J. & Riskind, R.G. (2010).  [To be a parent: Issues in family formation among gay and lesbian adults.](http://www.informaworld.com/index/925052935.pdf)  Journal of GLBT Family Studies, 6, 199-213.[^Note]
 
-*As of June 2015, this article is among the journal’s top 10 most-read articles, with 999 views
+[^Note]: As of January 2016, this article is among the journal’s top 10 most-read articles, with over 1,000 views
 
 ###Book chapters
+
+Patterson, C.J., Blanchfield, B.V., & Riskind, R.G. (In press).  Sexual orientation and gender identity in education:  Making schools safe for all students.  In S.L. Nichols (Ed.), Educational Policy and Socialization of Youth in the 21st Century, New York:  Teachers College Press.
 
 Patterson, C.J., Blanchfield, B.V., Tornello, S.L., & Riskind, R.G. (2015). LGBT relationships and family lives. In Makadon, J. Potter, K. Mayer, & H. Goldhammer (Ed.), [The Fenway Guide to Lesbian, Gay, Bisexual, and Transgender Health (2nd ed.).](http://www.amazon.com/Fenway-Lesbian-Bisexual-Transgender-Health/dp/1938921003/) American College of Physicians Press.
 
@@ -39,7 +43,7 @@ Patterson, C.J. & Riskind, R.G. (2011). Adolescents with lesbian or gay parents.
 
 ###Additional publications
 
-Riskind, R.G.  (Forthcoming 2015).  Intentions and motivations for parenthood. In The Sage Encyclopedia of LGBTQ Studies.  Thousand Oaks, California:  SAGE Publications, Inc.
+Riskind, R.G.  (Forthcoming 2016).  Intentions and motivations for parenthood. In The Sage Encyclopedia of LGBTQ Studies.  Thousand Oaks, California:  SAGE Publications, Inc.
 
 Riskind, R.G., Palmquist, C.M., Kondrad, R.L., Lerner, M.D. (2014). [Once in a lifetime: A tenure-track job is finally yours. Now how do you make it through the first year?](http://chronicle.com/article/Once-in-a-Lifetime/148515) Chronicle of Higher Education.
 

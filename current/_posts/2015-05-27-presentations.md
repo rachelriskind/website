@@ -5,7 +5,7 @@ date:   2015-05-27 12:29:19
 permalink: /presentations
 ---
 
-I created this guide to help undergraduates improve the quality of their class presentations.  I credit much of this material to my grad school education:  Denny Proffitt's and Judy DeLoache's presentations about how to present, not to mention Charlotte Patterson's mentorship and edits of my presentations.  Of course, many of these points are matters of opinion.  These are my opinions.
+I created this guide to help undergraduates improve the quality of their class presentations.  
 
 ### Creating your presentation
 
