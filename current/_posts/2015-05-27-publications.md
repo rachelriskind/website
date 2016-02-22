@@ -2,10 +2,9 @@
 layout: post
 title:  "Publications"
 date:   2015-05-27 12:29:19
-permalink: /publications
 ---
 
-###Peer-reviewed publications
+### Peer-reviewed publications
 
 Westgate, E.C., Riskind, R.G., & Nosek, B.A.  (2015).  [Implicit preferences for straight people over lesbian women and gay men weakened from 2006 to 2013](http://collabra.org/articles/10.1525/collabra.18/).  Collabra Open Access Journal, 1, Art. 1.
 
@@ -29,7 +28,7 @@ Patterson, C.J. & Riskind, R.G. (2010).  [To be a parent: Issues in family forma
 
 [^Note]: As of January 2016, this article is among the journal’s top 10 most-read articles, with over 1,000 views
 
-###Book chapters
+### Book chapters
 
 Patterson, C.J., Blanchfield, B.V., & Riskind, R.G. (In press).  Sexual orientation and gender identity in education:  Making schools safe for all students.  In S.L. Nichols (Ed.), Educational Policy and Socialization of Youth in the 21st Century, New York:  Teachers College Press.
 
@@ -41,7 +40,7 @@ Riskind, R.G. (2011). Sexual orientation and use of assisted reproductive techno
 
 Patterson, C.J. & Riskind, R.G. (2011). Adolescents with lesbian or gay parents.  In M. Fisher, E. Alderman, R. Kreipe, W. Rosenfeld (Eds.), [Textbook of Adolescent Health Care.](http://www.amazon.com/Textbook-Adolescent-Health-Martin-Fisher/dp/1581102690)  Chicago: American Academy of Pediatrics.
 
-###Additional publications
+### Additional publications
 
 Riskind, R.G.  (Forthcoming 2016).  Intentions and motivations for parenthood. In The Sage Encyclopedia of LGBTQ Studies.  Thousand Oaks, California:  SAGE Publications, Inc.
 

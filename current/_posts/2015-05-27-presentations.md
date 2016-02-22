@@ -2,7 +2,6 @@
 layout: post
 title:  "Presentation tips for undergraduates"
 date:   2015-05-27 12:29:19
-permalink: /presentations
 ---
 
 I created this guide to help undergraduates improve the quality of their class presentations.  

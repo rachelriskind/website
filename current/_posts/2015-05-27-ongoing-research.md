@@ -2,7 +2,6 @@
 layout: post
 title:  "Ongoing research"
 date:   2015-05-27 12:29:19
-permalink: /ongoing-research
 ---
 
 Broadly, I am interested in the psychology of sexual orientation and family life.  How might experiences of family vary as a function of one's sexual orientation, and how might they be similar?  How can psychologists contribute to understanding of these processes and help members of sexual minorities achieve the family relationships they want?  Below, I describe some ongoing lines of research which address these goals.
